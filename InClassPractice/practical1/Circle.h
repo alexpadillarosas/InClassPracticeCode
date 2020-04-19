@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
         return _radius;
     }
  
-    -(void) setCur:(float)newRadius{
+    -(void) setRadius:(float)newRadius{
         _radius = newRadius;
     }
  */
