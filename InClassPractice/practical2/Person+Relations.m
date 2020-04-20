@@ -13,7 +13,6 @@
 
 -(instancetype ) addFriend:(Person*) person{
     [[self friends] addObject:person];
-//    sortedArrayUsingSelector
     return self;
 }
 
